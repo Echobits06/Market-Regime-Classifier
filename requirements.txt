@@ -1,0 +1,6 @@
+refinitiv-data
+scikit-learn
+hmmlearn
+plotly
+nbformat
+matplotlib
